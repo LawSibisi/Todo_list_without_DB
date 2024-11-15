@@ -66,6 +66,7 @@ A new task is added to the tasks array, which is saved to localStorage.
 Click the "Edit" button next to a task.
 The modal appears, allowing the user to modify the task text.
 Clicking "Save" updates the task and saves changes to localStorage.
+
 **3. Marking/Unmarking Tasks**
 
 Click the "Mark Complete" button to toggle the task's completion status.
